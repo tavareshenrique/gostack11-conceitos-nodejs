@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="#information_source-content">⚙️ Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-content">ℹ️ Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-author">💻 Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,6 +21,21 @@
 <p align="center">
   Esse projeto foi desenvolvido para o estudo de Node com TypeScript no Bootcamp GoStack 11 da Rocketseat.
 </p>
+
+---
+
+# :gear: Iniciando
+
+```shell
+# Clone o Repositório
+git@github.com:tavareshenrique/gostack11-conceitos-nodejs.git
+
+## Baixe as dependencias
+yarn
+
+# Inicie o Projeto
+yarn dev:server
+```
 
 ---
 
